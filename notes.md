@@ -9,7 +9,7 @@ The following handwritten notes are based on *Singularities in commutative algeb
 
 ## Chapter I
 
-- [Background](../Chapter 0_ Background .pdf)
+- [Background](../Background.pdf)
 - [Koszul complex](../Chapter I_ Koszul Complex.pdf)
 - [Minimal models](../Chapter I_ Minimal Model and Complete Intersections.pdf)
 - [Complete intersections](../Chapter I_ Complete Intersection.pdf)
