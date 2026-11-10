@@ -15,6 +15,9 @@ I am a mathematics student interested in algebra, including commutative algebra,
   approximately 30 pages. Current notes on local cohomology and Gorenstein rings, updated on 11/9/2026.
   [Read PDF](local-cohomology.pdf)
 
+- **Handwritten Notes** - Some handwritten notes to understand singularities in commutative algebra.
+  [Handwritten notes](notes/)
+
 ## CV
 
 [Download my CV](cv.pdf)
