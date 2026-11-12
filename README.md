@@ -12,7 +12,7 @@ I am a mathematics student interested in algebra, including commutative algebra,
   [Read PDF](model-categories.pdf)
 
 - **Local Cohomology** — Expository reading notes,
-  approximately 30 pages. Current notes on local cohomology and Gorenstein rings, updated on 11/9/2026.
+  approximately 30 pages. Current notes on local cohomology and Gorenstein rings, updated on 11/12/2026.
   [Read PDF](local-cohomology.pdf)
 
 - **Handwritten Notes** - Some handwritten notes to understand singularities in commutative algebra.
